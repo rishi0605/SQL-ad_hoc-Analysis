@@ -1,1 +1,1 @@
-# SQL-ad_hoc-Analysis
+# SQL ad_hoc_Analysis
