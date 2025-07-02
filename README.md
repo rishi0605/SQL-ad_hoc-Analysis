@@ -38,3 +38,9 @@ To address this, the management has decided to strengthen its data analytics cap
 Findings:Key metrics tracked include Gross Profit, Contribution Margin %, Top Orders by Overall Amount Sold, Average Gross Sales, and Average Manufacturing Cost.
 
 Solutions:Boosted production rate by implementing customer incentives such as memberships, gift certificates, bundled deals, student discounts, and other targeted promotional offers.
+
+![1](https://github.com/user-attachments/assets/0ca89b05-77e5-41c2-9077-105970246709)
+![git](https://github.com/user-attachments/assets/0800cc00-3fc7-46ce-913d-3c490f01c585)
+![git2](https://github.com/user-attachments/assets/1578b51f-2269-41cc-b12b-1b166cf795c1)
+
+
